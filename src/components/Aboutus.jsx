@@ -7,7 +7,7 @@ const AboutUs = () => {
     <div className="about-container">
       <h2>About our Electronic Store in Vijayawada</h2>
       <p>
-        Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
+        Welcome to tharun E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
         We specialize in high-quality products, including computers, mobiles, laptops, and accessories.
       </p>
 
